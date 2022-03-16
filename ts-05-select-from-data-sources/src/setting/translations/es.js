@@ -1,0 +1,3 @@
+define({
+    selectMap: 'Seleccionar mapa'
+});

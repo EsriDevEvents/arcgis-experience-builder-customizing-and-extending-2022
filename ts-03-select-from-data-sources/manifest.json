@@ -1,0 +1,19 @@
+{
+  "name": "ts-03-select-from-data-sources",
+  "type": "widget",
+  "version": "1.7.0",
+  "exbVersion": "1.7.0",
+  "author": "Esri",
+  "description": "Demo widget focusing on selecting from data sources for Dev Summit 2022. Adding translations step",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en",
+    "es"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}
